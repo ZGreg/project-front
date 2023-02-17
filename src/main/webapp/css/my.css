@@ -1,9 +1,9 @@
-#myTable  th {
+#accounts  th {
     border: 2px solid black;
     padding: 5px;
     color: #cb3e3e;
 }
-#myTable  td {
+#accounts  td {
     border: 2px solid black;
     padding: 5px;
     color: chocolate;
